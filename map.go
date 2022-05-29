@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainl() {
 
 	/* var chicken3 = map[string]int{}
 	var chicken4 = make(map[string]int)
