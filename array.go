@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func maine() {
 	//vertikal array
 	var fruits = [4]string{"apple", "grape", "banana", "melon"}
 
