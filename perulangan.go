@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainz() {
 	//perulangan for
 	for i := 0; i < 5; i++ {
 		fmt.Println("Angka ", i)
